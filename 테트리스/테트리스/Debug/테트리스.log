@@ -1,0 +1,6 @@
+﻿  테트리스.cpp
+C:\Users\pray\source\repos\테트리스\테트리스\테트리스.cpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\pray\source\repos\테트리스\테트리스\테트리스.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\pray\source\repos\테트리스\테트리스\테트리스.cpp(96,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\pray\source\repos\테트리스\테트리스\테트리스.cpp(96,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  테트리스.vcxproj -> C:\Users\pray\source\repos\테트리스\Debug\테트리스.exe
